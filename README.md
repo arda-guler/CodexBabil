@@ -2,7 +2,9 @@
 
 "Complete" library of all* scriptures with all** possible writing systems. And a (admittedly terrible) text-to-speech to read the script aloud.
 
+
 *Up to a certain length.
+
 **...that use distinct symbols (or 'letters', 'glymps') for language representation.
 
 <img width="411" height="387" alt="cbab" src="https://github.com/user-attachments/assets/41be18c8-c4aa-423a-82c6-9c20c48097a3" />
